@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# bash script that desplay the lisning ports
+ss -tlnp
